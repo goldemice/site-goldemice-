@@ -58,18 +58,9 @@ nav ul li a {
     margin-top: 10px;
 }
 
-.buy-button {
-    background-color: #3498db;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
 
-.buy-button:hover {
-    background-color: #2980b9;
-}
+
+
 
 footer {
     background-color: #333;
